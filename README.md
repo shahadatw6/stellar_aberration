@@ -8,3 +8,10 @@ $$
 \tan \phi = \frac{{u'y}}{{u'x}} = \frac{{uy}}{{\gamma(ux + v)}}
 $$
 
+$$
+\gamma = \left(1 - \frac{{v^2}}{{c^2}}\right)^{-\frac{1}{2}}, \quad v \text{ is the velocity of the observer}, \quad c \text{ is the magnitude of the velocity of light.}
+$$
+
+$$
+(u_x, u_y) \text{ are the velocity components of light in the rest frame,} \quad (u'_x, u'_y) \text{ are the velocity components of light in the moving frame,} \quad c^2 = u_x^2 + u_y^2.
+$$
